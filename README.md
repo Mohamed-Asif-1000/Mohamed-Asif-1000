@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed Asif
+# Hi 👋, I'm Mohamed Asif. A
 
 ### Python Full Stack Developer | Django | PostgreSQL | React.js | Next.js
 
@@ -84,7 +84,7 @@ An immersive tourism platform showcasing luxury accommodations, adventure activi
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/mohamed-asif-a
+* LinkedIn: www.linkedin.com/in/mohamed-asif-a-14162326atm
 * GitHub: https://github.com/Mohamed-Asif-1000
 
 ---
